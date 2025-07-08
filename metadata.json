@@ -1,0 +1,8 @@
+{
+  "name": "QEMXA - AI Auto Diagnostics",
+  "description": "An AI-powered chat application to help users diagnose car problems. Users can add their vehicles and get expert advice from an AI assistant powered by the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

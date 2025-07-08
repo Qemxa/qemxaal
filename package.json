@@ -1,0 +1,12 @@
+{
+  "name": "qemxa-pro",
+  "version": "1.0.0",
+  "description": "AI Auto Diagnostics",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "@netlify/functions": "^2.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
